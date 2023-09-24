@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 25,
+      "gender": "Male",
+      "city": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "janedoe@example.com",
+      "age": 30,
+      "gender": "Female",
+      "city": "Los Angeles"
+    },
+    {
+      "id": 3,
+      "name": "Bob Smith",
+      "email": "bobsmith@example.com",
+      "age": 40,
+      "gender": "Male",
+      "city": "Chicago"
+    },
+    {
+      "id": 4,
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "age": 28,
+      "gender": "Female",
+      "city": "Houston"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "email": "davidlee@example.com",
+      "age": 35,
+      "gender": "Male",
+      "city": "San Francisco"
+    },
+    {
+      "id": 6,
+      "name": "Emily Chen",
+      "email": "emilychen@example.com",
+      "age": 27,
+      "gender": "Female",
+      "city": "Seattle"
+    },
+    {
+      "id": 7,
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "age": 45,
+      "gender": "Male",
+      "city": "Miami"
+    },
+    {
+      "id": 8,
+      "name": "Sarah Davis",
+      "email": "sarahdavis@example.com",
+      "age": 32,
+      "gender": "Female",
+      "city": "Boston"
+    },
+    {
+      "id": 9,
+      "name": "William Wilson",
+      "email": "williamwilson@example.com",
+      "age": 29,
+      "gender": "Male",
+      "city": "Atlanta"
+    },
+    {
+      "id": 10,
+      "name": "Olivia Taylor",
+      "email": "oliviataylor@example.com",
+      "age": 31,
+      "gender": "Female",
+      "city": "Denver"
+    },
+    {
+      "id": 11,
+      "name": "James Lee",
+      "email": "jameslee@example.com",
+      "age": 26,
+      "gender": "Male",
+      "city": "San Diego"
+    },
+    {
+      "id": 12,
+      "name": "Sophia Kim",
+      "email": "sophiakim@example.com",
+      "age": 33,
+      "gender": "Female",
+      "city": "Portland"
+    },
+    {
+      "id": 13,
+      "name": "Christopher Clark",
+      "email": "christopherclark@example.com",
+      "age": 39,
+      "gender": "Male",
+      "city": "Dallas"
+    },
+    {
+      "id": 14,
+      "name": "Ava Hernandez",
+      "email": "avahernandez@example.com",
+      "age": 24,
+      "gender": "Female",
+      "city": "Phoenix"
+    },
+    {
+      "id": 15,
+      "name": "Daniel Baker",
+      "email": "danielbaker@example.com",
+      "age": 36,
+      "gender": "Male",
+      "city": "Las Vegas"
+    },
+    {
+      "id": 16,
+      "name": "Mia Perez",
+      "email": "miaperez@example.com",
+      "age": 28,
+      "gender": "Female",
+      "city": "Austin"
+    },
+    {
+      "id": 17,
+      "name": "Matthew Turner",
+      "email": "matthewturner@example.com",
+      "age": 42,
+      "gender": "Male",
+      "city": "Philadelphia"
+    },
+    {
+      "id": 18,
+      "name": "Isabella Collins",
+      "email": "isabellacollins@example.com",
+      "age": 29,
+      "gender": "Female",
+      "city": "Washington D.C."
+    },
+    {
+      "id": 19,
+      "name": "Andrew Rodriguez",
+      "email": "andrewrodriguez@example.com",
+      "age": 34,
+      "gender": "Male",
+      "city": "San Antonio"
+    },
+    {
+      "id": 20,
+      "name": "Chloe Martinez",
+      "email": "chloemartinez@example.com",
+      "age": 27,
+      "gender": "Female",
+      "city": "New Orleans"
+    }
+  ]
+}
